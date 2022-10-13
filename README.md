@@ -6,10 +6,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=alexborsch&style=flat"> [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&color=blue&link=https://coderlog.top/)](https://coderlog.top/) [![Resume](https://img.shields.io/badge/Resume-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&color=blue&link=https://solenoxproject.ru/resume)](https://solenoxproject.ru/resume)
 
-[![GitHub LOLKEKDEV](https://img.shields.io/github/followers/oborshch?logo=github&color=blue&style=flat-square)](https://github.com/lolkekdev)
-[![Twitter: LOLKEKDEV](https://img.shields.io/twitter/follow/o_borshch?logo=twitter&color=blue&style=flat-square)](https://twitter.com/lolkekdev)
-[![Instagram Badge](https://img.shields.io/badge/oleksandr_borsch-purple?style=flat-square&logo=instagram&logoColor=white&color=gray&link=https://instagram.com/oleksandr_borsch/)](https://instagram.com/ceoofdolbaebs)
-
 
 
 ## My pet projects:
