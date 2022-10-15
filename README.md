@@ -6,7 +6,10 @@
 
 <img src="https://komarev.com/ghpvc/?username=alexborsch&style=flat"> [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&color=blue&link=https://vk.com/lolkekgamer/)](https://vk.com/lolkekgamer) [![Resume](https://img.shields.io/badge/Resume-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&color=blue&link=https://solenoxproject.ru/resume)](https://solenoxproject.ru/resume)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lolkekdev)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lolkekdev)](https://github.com/anuraghazra/github-readme-stats) 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lolkekdev)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lolkekdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
