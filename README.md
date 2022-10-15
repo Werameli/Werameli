@@ -13,13 +13,7 @@
 
 
 ## My favourite projects:
-<code>📝 Blog -> [LKDEV's Blog](https://solenoxproject.ru/ceoblog)</code>
-
-<code>📝 [LiveNet Project](https://vk.com/livenetproject) - Developer Studio</code>
-<code>🌐 [LiveNet WebSurfer](https://github.com/lolkekdev/SolenoxBrowser) - Web-Browser</code>
-  
-
-<code>🟩 [Solenox Network](https://github.com/lolkekdev/SolenoxBrowser) - Minecraft server network</code> 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lolkekdev&repo=SolenoxBrowser)](https://github.com/anuraghazra/github-readme-stats)
   
 
 
