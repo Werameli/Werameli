@@ -1,4 +1,4 @@
-### Hi, my name is Matvey aka LOLKEKDEV, i am a Software Creator from Saint-Petersburg, Russia 💻
+### Hi, my name is Matvey AKA LOLKEKDEV, i am a Software Creator from Saint-Petersburg, Russia 💻
 - I am creating software and website on: Python, PHP, HTML5, CSS
 - I can work with this types of DataBases: MySQL
 - Other languages that i know: Git, MarkDown
