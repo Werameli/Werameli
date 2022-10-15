@@ -13,9 +13,9 @@
 
 
 ## My favourite projects:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lolkekdev&repo=SolenoxBrowser)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lolkekdev&repo=SBM)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lolkekdev&repo=WindowsCoreManager)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lolkekdev&repo=SolenoxBrowser)](https://github.com/anuraghazra/github-readme-stats)
   
 
 
