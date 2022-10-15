@@ -4,7 +4,7 @@
 - Other languages that i know: Git, MarkDown
 - Operating Systems that i can work with: Linux, Windows, MacOS, Android, iOS, iPadOS
 
-<img src="https://komarev.com/ghpvc/?username=alexborsch&style=flat"> [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&color=blue&link=https://coderlog.top/)](https://coderlog.top/) [![Resume](https://img.shields.io/badge/Resume-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&color=blue&link=https://solenoxproject.ru/resume)](https://solenoxproject.ru/resume)
+<img src="https://komarev.com/ghpvc/?username=alexborsch&style=flat"> [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&color=blue&link=https://vk.com/lolkekgamer/)](https://vk.com/lolkekgamer) [![Resume](https://img.shields.io/badge/Resume-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&color=blue&link=https://solenoxproject.ru/resume)](https://solenoxproject.ru/resume)
 
 
 
