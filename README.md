@@ -13,9 +13,22 @@
 
 
 ## My favourite projects:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lolkekdev&repo=SBM)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lolkekdev&repo=WindowsCoreManager)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lolkekdev&repo=SolenoxBrowser)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/lolkekdev/Solenoxbrowser">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lolkekdev&repo=SolenoxBrowser&theme=buefy" />
+</a>
+<a href="https://github.com/lolkekdev/SBM">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lolkekdev&repo=SBM&theme=buefy" />
+</a>
+
+<br />
+<br />
+
+<a href="https://twitter.com/anuraghazru">
+  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+<a href="https://codesandbox.io/u/anuraghazra">
+  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+</a>
   
 
 
