@@ -4,8 +4,6 @@
 - Other languages that i know: Git, MarkDown
 - Operating Systems that i can work with: Linux, Windows, MacOS, Android, iOS, iPadOS
 
-<img src="https://komarev.com/ghpvc/?username=alexborsch&style=flat"> [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&color=blue&link=https://vk.com/lolkekgamer/)](https://vk.com/lolkekgamer) [![Resume](https://img.shields.io/badge/Resume-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&color=blue&link=https://solenoxproject.ru/resume)](https://solenoxproject.ru/resume)
-
 ### My stats:
 [![LOLKEKDEV's GitHub stats](https://github-readme-stats.vercel.app/api?username=lolkekdev&show_icons=true&theme=gradient))](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lolkekdev&layout=compact&show_icons=true&theme=gradient))](https://github.com/anuraghazra/github-readme-stats)
 
