@@ -11,9 +11,6 @@
 
 
 ## My favourite projects:
-<a href="https://github.com/lolkekdev/SBM">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lolkekdev&repo=SBM&theme=buefy" />
-</a>
 <a href="https://github.com/lolkekdev/SolenoxBrowser">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lolkekdev&repo=SolenoxBrowser&theme=buefy" />
 </a>
