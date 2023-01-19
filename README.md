@@ -23,7 +23,7 @@
 
 
 </br></br>
-### 🖥️ Languages that i know:
+### 🖥️ Languages anf Tools that I know:
 
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
