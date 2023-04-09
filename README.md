@@ -1,6 +1,6 @@
 ### Hi, my name is Matt a/k/a LOLKEKDEV, I am a Software Engineer from Saint-Petersburg, Russia 💻
 I use Fedora, btw
-- I am creating software and websites on: Python, PHP, HTML5, CSS
+- I am creating software and websites on: Python, PHP, C#
 - I can work with this types of DataBases: MySQL
 - Operating Systems that i can work with: Linux, Windows, Android
 
