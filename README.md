@@ -12,11 +12,11 @@ I use Fedora, btw
 <a href="https://github.com/lolkekdev/SolenoxBrowser">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lolkekdev&repo=SolenoxBrowser&theme=buefy" />
 </a>
-
+<br>
 <a href="https://github.com/lolkekdev/SolenoxBrowser">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lolkekdev&repo=fedora-firstboot&theme=buefy" />
 </a>
-
+<br>
 <a href="https://github.com/lolkekdev/lkdev-CustomZsh">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lolkekdev&repo=lkdev-CustomZsh&theme=buefy" />
 </a>
