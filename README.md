@@ -10,7 +10,7 @@ I use Fedora, btw
 
 ## My favourite projects:
 <a href="https://github.com/lolkekdev/SolenoxBrowser">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=werameliv&repo=SolenoxBrowser&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=werameli&repo=SolenoxBrowser&theme=buefy" />
 </a>
 
 <a href="https://github.com/lolkekdev/fedora-firstboot">
