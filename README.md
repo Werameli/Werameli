@@ -1,24 +1,24 @@
-### Hi, my name is Matt a/k/a LOLKEKDEV, I am a Software Engineer from Saint-Petersburg, Russia 💻
+### Hi, my name is Matt a/k/a Werameli, I am a Software Engineer from Saint-Petersburg, Russia 💻
 I use Fedora, btw
 - I am creating software and websites on: Python, PHP, C#, Kotlin
 - I can work with this types of DataBases: MySQL
 - Operating Systems that i can work with: Linux, Windows, Android
 
 ### My stats:
-[![LOLKEKDEV's GitHub stats](https://github-readme-stats.vercel.app/api?username=lolkekdev&show_icons=true&theme=gradient)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lolkekdev&layout=compact&show_icons=true&theme=gradient)](https://github.com/anuraghazra/github-readme-stats)
+[![LOLKEKDEV's GitHub stats](https://github-readme-stats.vercel.app/api?username=werameli&show_icons=true&theme=gradient)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lolkekdev&layout=compact&show_icons=true&theme=gradient)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## My favourite projects:
 <a href="https://github.com/lolkekdev/SolenoxBrowser">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lolkekdev&repo=SolenoxBrowser&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=werameliv&repo=SolenoxBrowser&theme=buefy" />
 </a>
 
 <a href="https://github.com/lolkekdev/fedora-firstboot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lolkekdev&repo=fedora-firstboot&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=werameli&repo=fedora-firstboot&theme=buefy" />
 </a>
 </br></br>
 <a href="https://github.com/lolkekdev/lkdev-CustomZsh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lolkekdev&repo=lkdev-CustomZsh&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=werameli&repo=lkdev-CustomZsh&theme=buefy" />
 </a>
 
 <br />
