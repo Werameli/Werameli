@@ -5,7 +5,7 @@ I use Fedora, btw
 - Operating Systems that i can work with: Linux, Windows, Android
 
 ### My stats:
-[![LOLKEKDEV's GitHub stats](https://github-readme-stats.vercel.app/api?username=werameli&show_icons=true&theme=gradient)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lolkekdev&layout=compact&show_icons=true&theme=gradient)](https://github.com/anuraghazra/github-readme-stats)
+[![LOLKEKDEV's GitHub stats](https://github-readme-stats.vercel.app/api?username=werameli&show_icons=true&theme=gradient)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=werameli&layout=compact&show_icons=true&theme=gradient)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## My favourite projects:
