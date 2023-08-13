@@ -7,17 +7,10 @@ I use Fedora, btw
 
 
 ## My favourite projects:
-<a href="https://github.com/werameli/SolenoxBrowser">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=werameli&repo=SolenoxBrowser&theme=buefy" />
-</a>
-
 <a href="https://github.com/werameli/fedora-firstboot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=werameli&repo=fedora-firstboot&theme=buefy" />
 </a>
 </br></br>
-<a href="https://github.com/werameli/lkdev-CustomZsh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=werameli&repo=lkdev-CustomZsh&theme=buefy" />
-</a>
 
 <br />
 <br />
