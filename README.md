@@ -1,7 +1,6 @@
 ### Hi, I'm Werameli, programmer from Saint-Petersburg, Russia 💻
 I use Fedora, btw
 - I am creating software and websites on: Python, PHP, C#, Kotlin
-- I can wo
 
 ### My stats:
 [![Werameli's GitHub stats](https://github-readme-stats.vercel.app/api?username=werameli&show_icons=true&theme=gradient)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=werameli&layout=compact&show_icons=true&theme=gradient)](https://github.com/anuraghazra/github-readme-stats)
