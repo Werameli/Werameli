@@ -1,23 +1,22 @@
-### Hi, my name is Matt a/k/a Werameli, I am a Software Engineer from Saint-Petersburg, Russia 💻
+### Hi, I'm Werameli, programmer from Saint-Petersburg, Russia 💻
 I use Fedora, btw
 - I am creating software and websites on: Python, PHP, C#, Kotlin
-- I can work with this types of DataBases: MySQL
-- Operating Systems that i can work with: Linux, Windows, Android
+- I can wo
 
 ### My stats:
-[![LOLKEKDEV's GitHub stats](https://github-readme-stats.vercel.app/api?username=werameli&show_icons=true&theme=gradient)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=werameli&layout=compact&show_icons=true&theme=gradient)](https://github.com/anuraghazra/github-readme-stats)
+[![Werameli's GitHub stats](https://github-readme-stats.vercel.app/api?username=werameli&show_icons=true&theme=gradient)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=werameli&layout=compact&show_icons=true&theme=gradient)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## My favourite projects:
-<a href="https://github.com/lolkekdev/SolenoxBrowser">
+<a href="https://github.com/werameli/SolenoxBrowser">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=werameli&repo=SolenoxBrowser&theme=buefy" />
 </a>
 
-<a href="https://github.com/lolkekdev/fedora-firstboot">
+<a href="https://github.com/werameli/fedora-firstboot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=werameli&repo=fedora-firstboot&theme=buefy" />
 </a>
 </br></br>
-<a href="https://github.com/lolkekdev/lkdev-CustomZsh">
+<a href="https://github.com/werameli/lkdev-CustomZsh">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=werameli&repo=lkdev-CustomZsh&theme=buefy" />
 </a>
 
@@ -31,9 +30,7 @@ I use Fedora, btw
   <a href="mailto:sdfrrt863@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-### 🖥️ Languages and Tools that I know:
-
-
+### 🖥️ Languages and Tools that I know
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
