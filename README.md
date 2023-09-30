@@ -10,9 +10,6 @@ I use Fedora, btw
 <a href="https://github.com/werameli/fedora-firstboot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=werameli&repo=fedora-firstboot&theme=buefy" />
 </a>
-</br></br>
-
-<br />
 
 <h2>📫 Social Links:</h2>
 <p>
