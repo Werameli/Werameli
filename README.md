@@ -13,9 +13,6 @@ I use Fedora, btw
 </br></br>
 
 <br />
-<br />
-
-</br></br>
 
 <h2>📫 Social Links:</h2>
 <p>
