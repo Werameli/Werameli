@@ -21,6 +21,9 @@ I use Fedora, btw
 <p>
   <a href="mailto:sdfrrt863@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+<p>
+  <a href="https://t.me/zxcUWUnyashka"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+</p>
 
 ### 🖥️ Languages, tools and operating systems
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
