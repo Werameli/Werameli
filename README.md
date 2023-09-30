@@ -1,7 +1,9 @@
-## If you having any issues using my programs on Windows, please, DM at telegram! Link down below
+## If you having any issues using my programs, please, DM me at telegram! Link down below
 
 ### Hi! I'm Werameli, multi-purpose developer!  💻
 #### Multi-Purpose means I can develop web and desktop projects!
+#### Using Linux btw (Fedora KDE spin)
+
 
 
 
