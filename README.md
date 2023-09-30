@@ -1,4 +1,5 @@
-### Hi, I'm Werameli, programmer from Saint-Petersburg, Russia 💻
+### Hi, I'm Werameli, multi-purpose developer!  💻
+#### Multi-Purpose means I can develop web and desktop projects!
 I use Fedora, btw
 - I am creating software and websites on: Python, PHP, C#, Kotlin
 
