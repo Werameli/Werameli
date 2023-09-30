@@ -1,6 +1,9 @@
+## If having any issues using my programs on Windows, please, DM at telegram! Link down below
+
 ### Hi! I'm Werameli, multi-purpose developer!  💻
 #### Multi-Purpose means I can develop web and desktop projects!
-I use Fedora, btw
+
+
 
 ### My stats (yeah its bad cuz I upload smth on GitHub rarely):
 [![Werameli's GitHub stats](https://github-readme-stats.vercel.app/api?username=werameli&show_icons=true&theme=gradient)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=werameli&layout=compact&show_icons=true&theme=gradient)](https://github.com/anuraghazra/github-readme-stats)
