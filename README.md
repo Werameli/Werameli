@@ -1,7 +1,6 @@
 ### Hi, I'm Werameli, multi-purpose developer!  💻
 #### Multi-Purpose means I can develop web and desktop projects!
 I use Fedora, btw
-- I am creating software and websites on: Python, PHP, C#, Kotlin
 
 ### My stats:
 [![Werameli's GitHub stats](https://github-readme-stats.vercel.app/api?username=werameli&show_icons=true&theme=gradient)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=werameli&layout=compact&show_icons=true&theme=gradient)](https://github.com/anuraghazra/github-readme-stats)
