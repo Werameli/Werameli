@@ -19,7 +19,7 @@ I use Fedora, btw
 
 <h2>📫 Social Links:</h2>
 <p>
-  <a href="mailto:sdfrrt863@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp; <a href="https://t.me/zxcUWUnyashka"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://x.com/realwerameli"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>&nbsp; <a href="https://t.me/zxcUWUnyashka"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 <p>
   
