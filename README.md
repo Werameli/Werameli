@@ -1,4 +1,4 @@
-### Hi, I'm Werameli, multi-purpose developer!  💻
+### Hi! I'm Werameli, multi-purpose developer!  💻
 #### Multi-Purpose means I can develop web and desktop projects!
 I use Fedora, btw
 
