@@ -2,7 +2,7 @@
 
 ### Hi! I'm Werameli, multi-purpose developer!  💻
 #### Multi-Purpose means I can develop web and desktop projects!
-#### Using Linux btw (Fedora KDE spin)
+#### I use arch btw
 
 
 
