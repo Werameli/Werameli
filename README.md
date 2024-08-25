@@ -13,7 +13,7 @@
 
 ## My favourite projects:
 <a href="https://github.com/werameli/fedora-firstboot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=werameli&repo=fedora-firstboot&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=werameli&repo=SwissNetKnife&theme=buefy" />
 </a>
 
 <h2>📫 Social Links:</h2>
