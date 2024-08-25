@@ -12,8 +12,12 @@
 
 
 ## My favourite projects:
-<a href="https://github.com/werameli/fedora-firstboot">
+<a href="https://github.com/werameli/SwissNetKnife">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=werameli&repo=SwissNetKnife&theme=buefy" />
+</a>
+
+<a href="https://github.com/werameli/SNKUnited">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=werameli&repo=SNKUnited&theme=buefy" />
 </a>
 
 <h2>📫 Social Links:</h2>
