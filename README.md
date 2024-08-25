@@ -1,4 +1,4 @@
-## If you having any issues using my programs, please, DM me at telegram! Link down below
+## If you having any issues using my programs, please, DM me on Twitter! Link down below
 
 ### Hi! I'm Werameli, multi-purpose developer!  💻
 #### Multi-Purpose means I can develop web and desktop projects!
