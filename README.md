@@ -20,6 +20,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=werameli&repo=SNKUnited&theme=buefy" />
 </a>
 
+<br></br>
 <a href="https://github.com/werameli/SolenoxBrowser">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=werameli&repo=SolenoxBrowser&theme=buefy" />
 </a>
